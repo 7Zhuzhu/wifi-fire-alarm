@@ -2,7 +2,15 @@
 
 51 单片机 + MQ-2 烟雾 + DS18B20 温度，本地 LCD1602 显示与声光报警，同时通过 ESP8266 把状态上报到服务器，手机端可远程查看与下发控制指令。
 
-![实物图](images/实物_正面.jpg)
+![实物图](images/board_front.jpg)
+
+正面：LCD1602、MQ-2、DS18B20、4 个按键、双色指示灯
+
+![PCB 走线](images/board_back.jpg)
+
+背面：焊接面与模块插座
+
+![引脚标注](images/pinout.png)
 
 ## 功能
 
