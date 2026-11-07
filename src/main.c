@@ -485,7 +485,7 @@ void main()
 //				if(tt>10)
 //				{
 //					tt=0;
-//					SendString("AT+CIPSTART=\"TCP\",\"123.57.239.76\",10005\r\n");
+//					SendString("AT+CIPSTART=\"TCP\",\"0.0.0.0\",0000\r\n");  // 备用服务器：换成你自己的地址
 //				}
 			}
 		}  
